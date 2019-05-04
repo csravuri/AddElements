@@ -4,7 +4,6 @@ import java.awt.event.ActionListener;
 
 import javax.swing.*;
 
-import com.sun.xml.internal.ws.commons.xmlutil.Converter;
 
 public class SumElements {
 
